@@ -19,3 +19,9 @@ End, Then check and see
 If both numbers are same, sysout " it's a palindrome"
 
 Else print "nah"
+
+
+The second file is called combinetables.sql
+
+The answer to this question came from leetcode's question on combinine two tables:
+[Absolute README link](https://leetcode.com/problems/combine-two-tables/)
