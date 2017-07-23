@@ -27,3 +27,7 @@ Else print "nah"
 
 The answer to this question came from leetcode's question on combinine two tables:
 [Combine two tables](https://leetcode.com/problems/combine-two-tables/)
+
+* The third file came from [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/#/description)
+
+* The fourth came from [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/#/description) 
